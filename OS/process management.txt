@@ -1,0 +1,16 @@
+OS provides abstraction
+program doesnt have to provide info abt the running of the process on the machine. 2^32 bit RAM is 4gb.
+
+
+Things required for a process to run:-
+process id
+state
+program counter - contain link to next or previous set of inst
+registers -  8 registers in 32 bit os and 16 in 64 bit.
+type of process   - user or kernel process
+memory info   - every process is TRICKED INTO BELIEVING that each process is running in full RAM._____
+
+
+
+
+___Caching____
